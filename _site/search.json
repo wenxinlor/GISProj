@@ -12,5 +12,33 @@
     "title": "GIS Project",
     "section": "",
     "text": "Welcome to our GIS Project website."
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "overview",
+    "section": "",
+    "text": "In this project, we are given two major themes and sub-theme. Details description of this project is available on this page. Land cover classification is a commonly application area of digital image analysis."
+  },
+  {
+    "objectID": "overview.html#literature-review",
+    "href": "overview.html#literature-review",
+    "title": "overview",
+    "section": "Literature review",
+    "text": "Literature review\nIn this project, the follow articles have been will be reviewed."
+  },
+  {
+    "objectID": "overview.html#objectives",
+    "href": "overview.html#objectives",
+    "title": "overview",
+    "section": "Objectives",
+    "text": "Objectives\nThis objectives of this project are as follows:\n\nobjective 1\nobjective 2"
+  },
+  {
+    "objectID": "overview.html#tasks",
+    "href": "overview.html#tasks",
+    "title": "overview",
+    "section": "Tasks",
+    "text": "Tasks\nThe project tasks are as follows:"
   }
 ]
